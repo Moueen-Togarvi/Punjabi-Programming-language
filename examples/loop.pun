@@ -1,0 +1,6 @@
+rakho count = 1
+
+jadd_tak count <= 5 {
+  likho "count: " + count
+  count = count + 1
+}

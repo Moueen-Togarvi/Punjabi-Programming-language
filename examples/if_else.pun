@@ -1,0 +1,7 @@
+rakho score = 85
+
+je score >= 50 {
+  likho "pass"
+} nai_ta {
+  likho "fail"
+}

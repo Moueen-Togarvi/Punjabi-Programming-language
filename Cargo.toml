@@ -1,0 +1,8 @@
+[package]
+name = "punjabi_lang"
+version = "0.1.0"
+edition = "2021"
+description = "A beginner-friendly Roman Punjabi programming language interpreter."
+license = "MIT"
+
+[dependencies]

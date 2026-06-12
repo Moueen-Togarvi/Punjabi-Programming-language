@@ -1,0 +1,6 @@
+rakho naam = "Moueen"
+rakho umar = 21
+rakho agla_saal = umar + 1
+
+likho "Naam: " + naam
+likho "Agle saal umar: " + agla_saal
